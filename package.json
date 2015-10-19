@@ -1,0 +1,38 @@
+{
+  "name": "youtube-loop-button",
+  "version": "0.0.1",
+  "description": "The missing loop button of YouTube",
+  "main": "index.js",
+  "dependencies": {
+    "event-stream": "^3.3.2",
+    "crx": "^3.0.3",
+    "gulp": "^3.9.0",
+    "gulp-clean": "^0.3.1",
+    "gulp-load-plugins": "^1.0.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-run": "^1.6.11",
+    "gulp-run-sequence": "^0.3.2",
+    "gulp-zip": "^3.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trexnix/youtube-loop-button.git"
+  },
+  "keywords": [
+    "youtube",
+    "loop",
+    "repeat",
+    "button"
+  ],
+  "author": "Trexnix <trexnix@gmail.com> (https://github.com/trexnix)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/trexnix/youtube-loop-button/issues"
+  },
+  "homepage": "https://github.com/trexnix/youtube-loop-button#readme"
+}

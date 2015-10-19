@@ -1,0 +1,7 @@
+.ytp-loop-button {
+  float: left;
+}
+
+.ytp-chrome-controls .ytp-loop-button.ytp-button-toggled .ytp-svg-fill{
+  fill: #f12b24;
+}
