@@ -3,20 +3,20 @@
 
 Just a browser extension that adds a tiny little loop button to the YouTube webpage.
 
-<p class="center">
-  ![Demo](./screenshot.png)
+<p align="center">
+  <img src="screenshot.png?raw=true" alt="Screenshot"/>
 </p>
 
 ## Download
 
 *Currently supported only on Chrome and Opera*
 
-* [Download Chrome extension](chrome-download)
-* [Download Opera extension](opera-download)
+* [Download Chrome extension][chrome-download]
+* [Download Opera extension][opera-download]
 
 ## Install
 
-* Navigate to the [Chrome extensions](chrome-extensions) (**Tools -> Extensions**) page or [Opera extensions](opera-extensions) (**View -> Extensions -> Show Extensions**) page.
+* Navigate to the Chrome extensions (**Tools -> Extensions**) page or Opera extensions (**View -> Extensions -> Show Extensions**) page.
 * Drag and drop the newly downloaded file onto the page.
 * Then click **Add extension** or **Install**. 
 
@@ -25,7 +25,5 @@ Just a browser extension that adds a tiny little loop button to the YouTube webp
 MIT © [Trexnix](https://github.com/trexnix)
 
 
-[chrome-download]: ./raw/master/dist/chrome.crx
-[opera-download]: ./raw/master/dist/opera.nex
-[chrome-extensions]: chrome://extensions
-[opera-extensions]: browser://extensions
+[chrome-download]: /dist/chrome.crx?raw=true
+[opera-download]: /dist/opera.nex?raw=true
