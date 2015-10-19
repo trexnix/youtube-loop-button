@@ -9,14 +9,14 @@ Just a browser extension that adds a tiny little loop button to the YouTube webp
 
 ## Download
 
-*Currently supported only on Chrome and Opera*
+*Currently supported only on Chrome/Chromium and Opera*
 
-* [Download Chrome extension][chrome-download]
+* [Download Chrome/Chromium extension][chrome-download]
 * [Download Opera extension][opera-download]
 
 ## Install
 
-* Navigate to the Chrome extensions (**Tools -> Extensions**) page or Opera extensions (**View -> Extensions -> Show Extensions**) page.
+* Navigate to the Chrome/Chromium extensions (**Tools -> Extensions**) page or Opera extensions (**View -> Extensions -> Show Extensions**) page.
 * Drag and drop the newly downloaded file onto the page.
 * Then click **Add extension** or **Install**. 
 
